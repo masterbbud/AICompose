@@ -41,7 +41,7 @@ public class Launcher extends PApplet {
 	public float startDrawingExtraUI;
 	
 	public static void main(String[] args) {
-		System.out.println("-------------\nINPUT NAME\n-------------\n");
+		System.out.println("-------------\nAI Composer\n-------------\n");
 		PApplet.main("main.Launcher");
 	}
 
